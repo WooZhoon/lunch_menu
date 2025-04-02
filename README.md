@@ -3,7 +3,7 @@ SKN13 하면서 점심 뭐먹을지 고민하다가 만듦
 
 
 ### 사용법
-> random_recommend.py 실행
+random_recommend.py 실행
 
 
 ### 설명
