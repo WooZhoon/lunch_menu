@@ -1,11 +1,11 @@
 # lunch_menu
 SKN13 하면서 점심 뭐먹을지 고민하다가 만듬
 
-### * 사용법
+### 사용법
 random_recommend.py 실행
 
 
-### * 설명
+### 설명
 original_txt.txt 파일은 html에서 그냥 긁어온 코드입니다.
 여기서 txt_to_csv.py를 이용해 식당 이름과 장르를 추출하여 csv파일에 저장합니다.
 
